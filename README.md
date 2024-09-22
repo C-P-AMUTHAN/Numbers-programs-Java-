@@ -16,4 +16,4 @@ This repository contains a collection of Java programs related to numbers and ar
 To run these programs locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/C-P-AMUTHAN/Numbers-programs-Java-
+   git clone https://github.com/C-P-AMUTHAN/Numbers-programs-Java-.git
